@@ -14,7 +14,9 @@ import android.R;
 public class DeathGenerator {
 
     public DeathGenerator()
-    {}
+    {
+        return;
+    }
 
     private int GetDeath()
     {
